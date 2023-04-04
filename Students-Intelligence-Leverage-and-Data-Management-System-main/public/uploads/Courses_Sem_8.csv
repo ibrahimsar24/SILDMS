@@ -1,0 +1,10 @@
+Course Code,Course Name,Total Credits,Test 1,Test 2,ESE,TW,ORAL,ORAL & PRAC,Branch_id
+CSC801,Human Machine Interaction,4,20,20,80,,,,1
+CSC802,Distributed Computing,4,20,20,80,,,,1
+CSDLO801X,Department Level Optional Course -IV ,4,20,20,80,,,,1
+ILO801X,Institute Level Optional Course-II,3,20,20,80,,,,1
+CSL801,Human Machine Interaction Lab,1,,,,25,25,,1
+CSL802,Distributed Computing Lab,1,,,,25,25,,1
+CSL803,Cloud Computing Lab,2,,,,50,,25,1
+CSL804,Computational Lab-II,1,,,,50,,25,1
+CSL805,Major Project-II,6,,,,50,,50,1
