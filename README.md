@@ -1,16 +1,16 @@
-# sildms
+# SILDMS
+Designed and developed a web application using Flutter.</br>
+User can login through campus email id , user can be student or faculty.</br>
+Application has a Bar Code Scanner through which we can login which we used flutter barcode scanner
+package.</br>
+Applied webview flutter which showed the website on the application.</br>
+Created a website and web application for school and universities for students and teachers to manage
+administrative work and syllabus.</br>
+There are many features in a website like managing individual classes, fees, syllabus, attendance, marks etc.</br>
+The unique selling point of this project is we have a special tab for concession form for train and bus ticket so
+that you don’t have to wait in a long queue for the form.</br>
+Created front-end of a website using HTML , CSS and back-end using laravel and learned flutter , dart to
+apply in this project.</br>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
